@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden;
+}
+
 .user{
     width: 100px;
     height: 100px;
@@ -22,4 +26,9 @@
 
 .ok{
     display: none;
+}
+
+.img{
+    width: 240px;
+    height: 240px;
 }
